@@ -1,4 +1,4 @@
-function BigModal(data: { isp: string; location: object; ip: string }) {
+function BigModal() {
   return (
     <div className="modal">
       <ul className="modal-list">
